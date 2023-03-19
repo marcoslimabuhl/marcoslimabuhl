@@ -1,4 +1,7 @@
-### Hi there 👋
+# Olá, eu me chamo Marcos. Tudo bem? 👋
+### Atualmente cursanso a graduação em Tecnologia da Informação na [UNIVESP](https://univesp.br/)
+### Retornando à área de TI trabalhando com Suporte e me empenhando pra alcançar uma carreira de dev
+### Utilizo esse perfil para compartilhar esse meu percurso 
 
 <!--
 **marcoslimabuhl/marcoslimabuhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
