@@ -1,6 +1,6 @@
 # Olá, eu me chamo Marcos. Tudo bem? 👋
 ### Atualmente cursanso a graduação em Tecnologia da Informação na [UNIVESP](https://univesp.br/)
-### Retornando à área de TI trabalhando com Suporte e me empenhando pra alcançar uma carreira de dev
+### Retornando à área de TI trabalhando com Suporte e me empenhando pra alcançar uma carreira de devops
 ### Utilizo esse perfil para compartilhar esse meu percurso 
 
 <!--
